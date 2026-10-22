@@ -15,10 +15,18 @@ The primary objective of this assessment was to develop practical skills in netw
 The specific objectives were to:
 
 •	Discover active hosts on the lab network.
+
 •	Identify open TCP ports and associated services.
+
 •	Determine service names and software versions using Nmap.
+
 •	Estimate the target operating system.
+
 •	Practice TCP SYN and FIN scanning techniques.
-•	Enumerate SMB user accounts to understand information exposure.
+
+•	Enumerate SMB user accounts to understand information exposure
+.
 •	Review the OpenVAS vulnerability-assessment interface and available findings.
+
 •	Identify potential security weaknesses and recommend appropriate mitigation measures.
+
